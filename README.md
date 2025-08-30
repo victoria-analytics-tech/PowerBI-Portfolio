@@ -12,7 +12,7 @@ This portfolio is part of that journey — a space where I explore how thoughtfu
 - Former clients include global corporations such as Sony and Mitsubishi, where I led international communication, cross-functional coordination, and data-driven marketing strategy.  
 - Currently working remotely for a Japanese company and consulting independently while transitioning into BI.  
 - Prior experience includes a university lecturing role in Japan, followed by client-facing positions in IT and project coordination.  
-- Conversational Japanese speaker (JLPT N3 certified, interviewed and hired in Japanese).  
+- Conversational Japanese speaker (JLPT N3, interviewed and hired in Japanese); I use Japanese daily at home with my toddler and am also actively learning Danish, which I practice with him through songs, simple phrases, and play.  
 - Currently studying Power BI, SQL, DAX, and data storytelling, with a focus on real-world use cases.  
 - Comfortable working in multicultural, cross-functional teams, and skilled at making complexity approachable.
 
